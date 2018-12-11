@@ -7,3 +7,6 @@
 
 
 [Download PhantomJS](http://phantomjs.org/download.html "PhantomJS Download URL")
+
+
+[Download PhantomJS]: http://phantomjs.org/download.html
