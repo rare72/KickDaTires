@@ -9,9 +9,9 @@
 ## Prerequisites:
 - Qt
 - GCC
-... Version 5 or higher
+… Version 5 or higher
 - Python
-... Version 2.6 of higher
+… Version 2.6 of higher
 - VIM
 - WebKit
 - Fontconfig (the package fontconfig or libfontconfig depending on the distribution)
