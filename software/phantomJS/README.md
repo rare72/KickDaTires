@@ -14,5 +14,5 @@
 - GLIBCXX_3.4.9 "AND" GLIBC_2.7
 
 ## Links:
-###### [Main Page:](http://phantomjs.org "Main PhantomJS URL")
-###### [Download PhantomJS](http://phantomjs.org/download.html "PhantomJS Download URL")
+- [Main Page:](http://phantomjs.org "Main PhantomJS URL")
+- [Download PhantomJS](http://phantomjs.org/download.html "PhantomJS Download URL")
