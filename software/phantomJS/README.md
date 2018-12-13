@@ -86,7 +86,7 @@
 
 ## Install Software via Debian Based System
 - Command Line entry to deploy the software
-    * sudo apt-get install build-essential g++ flex bison gperf perl \
+    * ```sudo apt-get install build-essential g++ flex bison gperf perl \
       libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev \
       libpng-dev libjpeg-dev libx11-dev libxext-dev \
       python3 python3-fontconfig cpp vim flexc++ \
@@ -94,6 +94,7 @@
       ruby-build ruby-qt4-dbg ruby-all-dev ruby-dev ruby \
       fontconfig fontconfig-config libfontconfig1-dev libfontconfig1 \
       gdb make make-guile autoconf automake libtool manpages-dev ttf-mscorefonts-installer
+      ```
 
 ## Links:
 - [Main Page](http://phantomjs.org "Main PhantomJS URL")
