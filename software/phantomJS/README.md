@@ -1,5 +1,5 @@
 # Overview:
-#### PhantomJS is utilized heavily build and compilation of OSS Java software. Listed below is how I utilize the software.
+- PhantomJS is utilized heavily build and compilation of OSS Java software. Listed below is how I utilize the software.
 - Helps to properly setup the system for our usage.
   * Please remember to set the System-Wide $PATH to the location of this software.
 - Integral Software that aids in the compilation of other OSS & system software.
