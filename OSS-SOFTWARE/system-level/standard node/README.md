@@ -53,6 +53,6 @@ python3-six python3-software-properties python3-yaml python3-doc
         * :/opt/data/kick-da-tires/prod-software/jre1.8.0_191/bin/
 
 ## Links:
-- [GCC Home Page](https://gcc.gnu.org/ "GCC Home Page "GCC Home Page")
+- [GCC Home Page](https://gcc.gnu.org/ "GCC Home Page")
 - [ttf-mscorefonts-installer Package Info](https://packages.ubuntu.com/xenial/ttf-mscorefonts-installer "Ubuntu 16.04 Xenial Package Info for ttf-mscorefonts-installer")
 - [cabextract Package Info](https://packages.ubuntu.com/xenial/cabextract "Ubuntu 16.04 Xenial Package Info for cabextract")
