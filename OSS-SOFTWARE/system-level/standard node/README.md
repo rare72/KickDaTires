@@ -23,7 +23,7 @@
 - Sun/Oracle Java JRE Version "1.8.0_191"
   * Deflate TarBall
     * CLI Command:
-      `sudo tar zxvf /data/kickdatires/INSTALLER/JRE-latest_jre-8u191-linux-x64.tar.gz -C /opt/data/kick-da-tires/prod-software`
+      `sudo tar zxvf /data/kick-da-tires/INSTALLER/JRE-LATEST_jre-8u191-linux-x64.tar.gz -C /opt/data/kick-da-tires/prod-software`
 
 
 In General:
@@ -45,7 +45,12 @@ python3-six python3-software-properties python3-yaml python3-doc
 
 ## Post Install:
 - Set PATH to Java 1.8 as the default version
-  * Manual Task
+  * CLI Command:
+    * export PATH=$PATH:/opt/data/kick-da-tires/prod-software/jre1.8.0_191/bin/
+  * Manual Task:
+    * Edit the "/etc/environment" file
+      * Add to file
+        * :/opt/data/kick-da-tires/prod-software/jre1.8.0_191/bin/
 
 ## Links:
 - [GCC Home Page](https://gcc.gnu.org/ "GCC Home Page "GCC Home Page")
