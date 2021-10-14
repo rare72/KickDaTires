@@ -27,9 +27,11 @@
 
 
 In General:
-sudo apt-get install tree vim vim-common vim-runtime gcc-10 \\
-lib32stdc++6-5-dbg libjpeg-dev libxslt1-dev libxslt1.1 libunistring0 \\
+'''
+sudo apt-get install tree vim vim-common vim-runtime gcc-10 \
+lib32stdc++6-5-dbg libjpeg-dev libxslt1-dev libxslt1.1 libunistring0 \
 byobu libxml2  libgcc1 libstdc++6 binfmt-support lrzip cabextract
+'''
 
 Python 2.X:
 sudo apt-get install python python-tk python-doc python-tk python2.7-doc \
